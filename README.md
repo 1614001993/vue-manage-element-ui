@@ -1,4 +1,5 @@
 # vue-manage-system
+node版本为12.13.1
 
 ## Project setup
 ```
